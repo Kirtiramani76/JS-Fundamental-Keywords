@@ -59,12 +59,33 @@
 // i+=4;
 // console.log(i)
 // back-tick
-let a=1,b=2,s;
-for(let i=0;i<7;i++){
-s=a+b;
-console.log(`sum of ${a} and ${b} is ${s}`)
-a++;
-b++;
-}
+// let a=1,b=2,s;
+// for(let i=0;i<7;i++){
+// s=a+b;
+// console.log(`sum of ${a} and ${b} is ${s}`)
+// a++;
+// b++;
+// }
+
+// let myname="Kirti-Day";
+// for (let i=1;i<=7;i++){
+// console.log(`${myname} ${i}`)
+// }
+
+// CSst=["badminton","football","cricket","kabadii","basketball"]
+// let myname="Kirti-Day"
+// for(let i=0;i<=4;i++)
+// console.log(`${myname} ${i} > ${CSst[i]}`)
+
+// CSst=["Muskan","Vanshii","Anushka","Sneha"]
+// for(i=0;i<4;i++)
+// console.log(`${CSst[i]}`)
+
+// fruit=["Banana","Apple","Litchi","Orange"]
+// console.log(fruit.length)
+
+fruit=["Banana","Apple","Litchi","Orange","Mango"]
+for(let i=0;i<5;i++)
+console.log(fruit[i])
 
 
